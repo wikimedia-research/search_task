@@ -18,4 +18,4 @@ Using this dataset, eke out any insights you can about the users of search, the 
 
 The output could be visualisations, presentations, anything - this is more about the way you think and work than it is the format :).
 
-Once you've completed the task to your satisfaction, submit the output and whatever code you used to produce it through the Greenhouse tools that manage your application. Do *not* submit it through a GitHub pull request or similar.
+Once you've completed the task to your satisfaction, submit the output, *along with whatever code you used to produce it*, through the Greenhouse tools that manage your application. Do *not* submit it through a GitHub pull request or similar.
